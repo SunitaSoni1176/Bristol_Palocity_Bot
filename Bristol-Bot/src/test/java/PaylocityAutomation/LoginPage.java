@@ -9,7 +9,7 @@ public class LoginPage {
     private WebDriver driver;
     private WebDriverWait wait;
 
-    private By usernameField = By.id("username");
+    private By usernameField = By.id("username1");
     private By passwordField = By.id("password");
     private By loginButton = By.id("loginButton");
 
